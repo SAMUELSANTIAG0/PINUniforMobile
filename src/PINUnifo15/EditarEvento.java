@@ -21,6 +21,8 @@ public class EditarEvento extends JInternalFrame {
 			}
 		});
 	}
+	
+	// teste
 
 	/**
 	 * Create the frame.
